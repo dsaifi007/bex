@@ -1,7 +1,7 @@
 <?php
 
 defined('BASEPATH') OR exit('No direct script access allowed');
-
+// This is used for the error403
 class Error403 extends PublicMaster {
 
     public function __construct() {

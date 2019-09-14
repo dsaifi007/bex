@@ -23,9 +23,4 @@ class Error401 extends PublicMaster {
 		echo "branch name is master";
 	}
 
-	function testing(){
-		// this is testing purpose
-		echo "this is testing function";
-	}
-
 }

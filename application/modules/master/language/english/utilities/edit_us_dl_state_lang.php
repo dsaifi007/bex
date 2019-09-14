@@ -1,0 +1,19 @@
+<?php
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+//------------------------------------------------------------------------------
+// ! GENERAL LABELS
+//------------------------------------------------------------------------------
+$lang['page_title']			= 'Edit US Driving License State';
+$lang['page_keywords']		= 'US Driving License State, USA States';
+$lang['page_description']	= 'Edit existing US Driving License State';
+$lang['page_heading'] = 'Edit US Driving License State';
+$lang['page_heading_desc'] = 'usa & dl states';
+
+$lang['table_head_label'] = 'Update US DL State';
+$lang['tb_hd_us_dl_state'] = 'US Driving License State';
+
+//------------------------------------------------------------------------------
+// ! MESSAGE LABELS
+//------------------------------------------------------------------------------
+?>

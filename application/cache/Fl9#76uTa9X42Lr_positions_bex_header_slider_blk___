@@ -1,0 +1,23 @@
+a:3:{s:4:"time";i:1506089639;s:3:"ttl";i:604800;s:4:"data";s:1901:"<!-- Slider Section start here-->
+<section id="slider-section"> 
+    <div id="myCarousel" class="carousel slide" data-ride="carousel"> 
+        <div class="carousel-inner" role="listbox">
+                            <div class="item  active" style="background-image:url(http://localhost:81/bex/assets/images/banners/1498725795NetE1wQG.jpg);"><img src="http://localhost:81/bex/assets/images/banners/1498725795NetE1wQG.jpg" alt="" alt="Home Slider 2" class="first-slide img-responsive" />                                                <div class="slider-content">
+                                <h1 class="wow bounceIn animated"  data-wow-delay="200ms" style="visibility: visible; animation-delay: 200ms; animation-name: bounceIn;">Welcome to Albatross divers                                </h1>        
+                            </div>
+                     
+                </div>
+                            <div class="item " style="background-image:url(http://localhost:81/bex/assets/images/banners/1549977365gIuwRSN0.jpg);"><img src="http://localhost:81/bex/assets/images/banners/1549977365gIuwRSN0.jpg" alt="" alt="Home Slider 1" class="first-slide img-responsive" />                                                <div class="slider-content">
+                                <h1 class="wow bounceIn animated"  data-wow-delay="200ms" style="visibility: visible; animation-delay: 200ms; animation-name: bounceIn;">Welcome to Albatross divers                                </h1>        
+                            </div>
+                     
+                </div>
+                
+                <a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
+                <a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
+                    </div>
+    </div>
+</section>
+<!-- Slider Section End here-->
+<div class="clearfix"></div>
+";}

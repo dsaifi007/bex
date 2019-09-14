@@ -20,4 +20,9 @@ class Error401 extends PublicMaster {
         $this->displayView($data);
     }
 
+	function testing(){
+		// this is testing purpose
+		echo "this is testing function";
+	}
+
 }

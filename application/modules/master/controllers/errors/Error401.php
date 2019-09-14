@@ -8,7 +8,7 @@ class Error401 extends PublicMaster {
         parent::__construct();
         $this->lang->load('errors/error401');
     }
-	// this index function
+	//this is index
     public function index() {
         $this->output->cache($this->config->item('cache_week_ttl'));
         $this->minify->add_css($this->config->item('th_media_pages') . 'css/error.min.css', 'page');

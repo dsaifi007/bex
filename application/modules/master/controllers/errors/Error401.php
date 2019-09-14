@@ -19,6 +19,9 @@ class Error401 extends PublicMaster {
         $data['view_class'] = 'page-500-full-page';
         $this->displayView($data);
     }
+	function newfunction(){
+		echo "branch name is master";
+	}
 
 	function testing(){
 		// this is testing purpose

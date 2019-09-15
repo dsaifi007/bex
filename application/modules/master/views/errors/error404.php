@@ -1,5 +1,5 @@
 <?php defined('BASEPATH') OR exit('No direct script access allowed'); 
-
+// This is simple testing line add for checking the git status
 ?>
 <div class="page-inner"><?php echo img(media_url().'assets/pages/media/pages/earth.jpg', FALSE, ['class'=> 'img-responsive', 'alt'=>$this->lang->line('heading1_desc')]); ?></div>
 <div class="container error-404">
